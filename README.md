@@ -1,12 +1,13 @@
 # Bike Sharing Demand Analysis
 
+# [To Dashboard](https://public.tableau.com/app/profile/aaron.ang8614/viz/GlassDoorDataScience/Dashboard1)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Result and Findings](#result-and-findings)
 - [Recommendations](#recommendations)
-- [Limitations](#limitations)
 
 ### Project Overview
 
